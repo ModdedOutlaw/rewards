@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/rewards/static/css/main.238e0c41.css",
-    "main.js": "/rewards/static/js/main.f75f9a76.js",
+    "main.css": "/rewards/static/css/main.06858ced.css",
+    "main.js": "/rewards/static/js/main.34b9f01c.js",
+    "static/media/mio.jpg": "/rewards/static/media/mio.2f3db28d8286ecee01c6.jpg",
     "static/media/liftium-tokenizednft.png": "/rewards/static/media/liftium-tokenizednft.6fbd34eec07b470de599.png",
     "index.html": "/rewards/index.html",
-    "main.238e0c41.css.map": "/rewards/static/css/main.238e0c41.css.map",
-    "main.f75f9a76.js.map": "/rewards/static/js/main.f75f9a76.js.map"
+    "main.06858ced.css.map": "/rewards/static/css/main.06858ced.css.map",
+    "main.34b9f01c.js.map": "/rewards/static/js/main.34b9f01c.js.map"
   },
   "entrypoints": [
-    "static/css/main.238e0c41.css",
-    "static/js/main.f75f9a76.js"
+    "static/css/main.06858ced.css",
+    "static/js/main.34b9f01c.js"
   ]
 }
