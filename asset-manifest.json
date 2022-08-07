@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rewards/static/css/main.238e0c41.css",
-    "main.js": "/rewards/static/js/main.02aaa67d.js",
+    "main.js": "/rewards/static/js/main.f75f9a76.js",
     "static/media/liftium-tokenizednft.png": "/rewards/static/media/liftium-tokenizednft.6fbd34eec07b470de599.png",
     "index.html": "/rewards/index.html",
     "main.238e0c41.css.map": "/rewards/static/css/main.238e0c41.css.map",
-    "main.02aaa67d.js.map": "/rewards/static/js/main.02aaa67d.js.map"
+    "main.f75f9a76.js.map": "/rewards/static/js/main.f75f9a76.js.map"
   },
   "entrypoints": [
     "static/css/main.238e0c41.css",
-    "static/js/main.02aaa67d.js"
+    "static/js/main.f75f9a76.js"
   ]
 }
