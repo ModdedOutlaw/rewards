@@ -35,7 +35,43 @@ License:  MIT
   http://jedwatson.github.io/classnames
 */
 
+/*!
+* @neftyblocks/market v0.7.3
+* (c) 2022 NeftyBlocks
+* @license MIT
+*/
+
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+   * @license
+   * Copyright 2017 Google LLC
+   * SPDX-License-Identifier: BSD-3-Clause
+   */
+
+/**
+   * @license
+   * Copyright 2019 Google LLC
+   * SPDX-License-Identifier: BSD-3-Clause
+   */
+
+/**
+ * @license
+ * Copyright 2017 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
+/**
+ * @license
+ * Copyright 2020 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
+/**
+ * @license
+ * Copyright 2021 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
 
 /**
  * @license React
