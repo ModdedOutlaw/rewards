@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rewards/static/css/main.ce3976d3.css",
-    "main.js": "/rewards/static/js/main.0d474ed6.js",
+    "main.css": "/rewards/static/css/main.f75af0a2.css",
+    "main.js": "/rewards/static/js/main.7274e531.js",
     "static/media/uplift-world-community-logo.png": "/rewards/static/media/uplift-world-community-logo.59638097aed2453986b4.png",
     "static/media/mio.jpg": "/rewards/static/media/mio.c5b78af343afc88d0a8a.jpg",
     "static/media/liftium-tokenizednft.png": "/rewards/static/media/liftium-tokenizednft.4ebf0c2fc4307e294a49.png",
     "index.html": "/rewards/index.html",
-    "main.ce3976d3.css.map": "/rewards/static/css/main.ce3976d3.css.map",
-    "main.0d474ed6.js.map": "/rewards/static/js/main.0d474ed6.js.map"
+    "main.f75af0a2.css.map": "/rewards/static/css/main.f75af0a2.css.map",
+    "main.7274e531.js.map": "/rewards/static/js/main.7274e531.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce3976d3.css",
-    "static/js/main.0d474ed6.js"
+    "static/css/main.f75af0a2.css",
+    "static/js/main.7274e531.js"
   ]
 }
