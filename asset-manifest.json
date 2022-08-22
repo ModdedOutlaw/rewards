@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rewards/static/css/main.39631568.css",
-    "main.js": "/rewards/static/js/main.66c5f0f9.js",
+    "main.js": "/rewards/static/js/main.dd73a23f.js",
     "static/media/uplift-world-community-logo.png": "/rewards/static/media/uplift-world-community-logo.59638097aed2453986b4.png",
     "static/media/liftium-tokenizednft.png": "/rewards/static/media/liftium-tokenizednft.4ebf0c2fc4307e294a49.png",
     "index.html": "/rewards/index.html",
     "main.39631568.css.map": "/rewards/static/css/main.39631568.css.map",
-    "main.66c5f0f9.js.map": "/rewards/static/js/main.66c5f0f9.js.map"
+    "main.dd73a23f.js.map": "/rewards/static/js/main.dd73a23f.js.map"
   },
   "entrypoints": [
     "static/css/main.39631568.css",
-    "static/js/main.66c5f0f9.js"
+    "static/js/main.dd73a23f.js"
   ]
 }
