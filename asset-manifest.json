@@ -1,22 +1,18 @@
 {
   "files": {
     "main.css": "/rewards/static/css/main.71fa38e2.css",
-    "main.js": "/rewards/static/js/main.0a983e50.js",
-    "static/media/sellnfts.png": "/rewards/static/media/sellnfts.d18a82bdfa132f25b1bf.png",
-    "static/media/leaders.png": "/rewards/static/media/leaders.32c2246c0f0003aed3cd.png",
+    "main.js": "/rewards/static/js/main.4febb5b6.js",
     "static/media/Screenshot 2022-09-17 062958.jpg": "/rewards/static/media/Screenshot 2022-09-17 062958.950777e2d432e9cd51c8.jpg",
     "static/media/uplift-world-community-logo.png": "/rewards/static/media/uplift-world-community-logo.59638097aed2453986b4.png",
-    "static/media/burn.png": "/rewards/static/media/burn.17eab2c8d1b93d1558f9.png",
-    "static/media/crystallize.png": "/rewards/static/media/crystallize.a0ae705538602cadb03f.png",
     "static/media/liftium-tokenizednft.png": "/rewards/static/media/liftium-tokenizednft.4ebf0c2fc4307e294a49.png",
     "static/media/Screenshot 2022-09-17 062852.jpg": "/rewards/static/media/Screenshot 2022-09-17 062852.4e69936806dc4ae064d6.jpg",
     "static/media/Screenshot 2022-09-17 063059.jpg": "/rewards/static/media/Screenshot 2022-09-17 063059.2e03e559cd8fe6775c88.jpg",
     "index.html": "/rewards/index.html",
     "main.71fa38e2.css.map": "/rewards/static/css/main.71fa38e2.css.map",
-    "main.0a983e50.js.map": "/rewards/static/js/main.0a983e50.js.map"
+    "main.4febb5b6.js.map": "/rewards/static/js/main.4febb5b6.js.map"
   },
   "entrypoints": [
     "static/css/main.71fa38e2.css",
-    "static/js/main.0a983e50.js"
+    "static/js/main.4febb5b6.js"
   ]
 }
